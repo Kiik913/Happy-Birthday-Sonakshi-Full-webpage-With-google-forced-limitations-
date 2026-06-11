@@ -97,6 +97,7 @@ You can easily customize:
 - Add more surprise modes (e.g., `/memories`, `/gallery`, `/game`).
 - Social share buttons (WhatsApp, Instagram, etc.) for quick sharing.
 -  You can use "I love you" for theme cosimise and chage the name.
+-  You cant add music sadely(will be fix in some time)
 
 ---
 
